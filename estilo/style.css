@@ -20,9 +20,7 @@ body {
 
 main {
     position: relative;
-    height: 100vh;
-    
-    
+    height: 100vh;  
 }
 
 section#telefone {
@@ -34,4 +32,12 @@ section#telefone {
     width: 311px;
     background-color: blue;
     background: url(../imagens/frame-iphone.png) no-repeat;
+}
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
 }
